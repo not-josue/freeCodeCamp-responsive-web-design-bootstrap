@@ -1,0 +1,15 @@
+[submodule "survey-form"]
+	path = survey-form
+	url = https://github.com/not-josue/freeCodeCamp-survey-form-bootstrap
+[submodule "tribute-page"]
+	path = tribute-page
+	url = https://github.com/not-josue/freeCodeCamp-tribute-page-bootstrap
+[submodule "technical-documentation"]
+	path = technical-documentation
+	url = https://github.com/not-josue/freeCodeCamp-technical-documentation-page-bootstrap
+[submodule "product-landing-page"]
+	path = product-landing-page
+	url = https://github.com/not-josue/freeCodeCamp-product-landing-page-bootstrap
+[submodule "personal-portfolio"]
+	path = personal-portfolio
+	url = https://github.com/not-josue/freeCodeCamp-personal-portfolio-webpage-bootstrap
